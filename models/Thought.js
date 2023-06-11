@@ -9,7 +9,7 @@ const thoughtSchema = new Schema({
     maxlength: 280,
   },
   createdAt: {
-    tpye: Date,
+    type: Date,
     default: Date.now,
   },
   username: {
