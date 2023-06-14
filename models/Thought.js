@@ -33,7 +33,7 @@ thoughtSchema.virtual("reactionCount").get(function () {
   return this.reactions.length;
 });
 
-thoughtSchema.virtual("createdAt").get(function () {
+thoughtSchema.virtual("dateCreatedAt").get(function () {
   return this.createdAt;
 });
 
