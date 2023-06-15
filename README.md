@@ -5,7 +5,7 @@
 
 ## Visuals
 
-[Video Demonstration](https://drive.google.com/file/d/154Q4jWBXA7wbpZOor-K3v_VpZJ4IZXJu/view)
+[Video Demonstration](https://drive.google.com/file/d/1Rf4F8uqDt12nXK9NMATWE4yryPvMti6q/view)
 
 ## Description
   This application simulates the API of a basic social network platform using MongoDB as the database.
